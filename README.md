@@ -1,2 +1,2 @@
 # CBC-Encryption-with-AES-32-security
-This is a course project. We have implemented a fully functioning and deployable algorithm of CBC mode with AES-32 encryption and decryption purely in python using no library other than numpy.
+This is a course project. We have implemented a fully functioning and deployable algorithm of CBC mode with AES-32 encryption and decryption purely in python using no library other than numpy. We have mentioned the complete Boolean model of our encryption in the report along with security aspects and decryption patterns. The reduced security is for reducing complexity of implementation. With a bit more effort, bigger models can be easily implemented
